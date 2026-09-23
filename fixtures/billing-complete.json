@@ -1,0 +1,11 @@
+{
+  "intake_id": "SYN-INTAKE-001",
+  "source_filename": "synthetic-billing-request.pdf",
+  "document_class": "billing_request",
+  "fields": {
+    "practice_id": "SYN-PRACTICE-01",
+    "case_id": "SYN-CASE-001",
+    "service_date": "2026-09-01",
+    "request_description": "Prepare the fictional billing packet for review."
+  }
+}

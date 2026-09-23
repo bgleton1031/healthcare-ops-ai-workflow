@@ -1,0 +1,11 @@
+{
+  "intake_id": "SYN-INTAKE-004",
+  "source_filename": "synthetic-follow-up.pdf",
+  "document_class": "follow_up",
+  "fields": {
+    "practice_id": "SYN-PRACTICE-01",
+    "case_id": "SYN-CASE-004",
+    "correspondence_date": "2026-09-03",
+    "issue_summary": "Request a status update on the fictional packet."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "intake_id": "SYN-INTAKE-002",
+  "source_filename": "synthetic-incomplete-request.pdf",
+  "document_class": "billing_request",
+  "fields": {
+    "practice_id": null,
+    "case_id": "SYN-CASE-002",
+    "service_date": "2026-02-30",
+    "request_description": "Review this fictional packet."
+  }
+}

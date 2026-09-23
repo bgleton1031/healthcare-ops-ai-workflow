@@ -1,0 +1,12 @@
+{
+  "intake_id": "SYN-INTAKE-003",
+  "source_filename": "synthetic-payment.pdf",
+  "document_class": "payment_notice",
+  "fields": {
+    "practice_id": "SYN-PRACTICE-02",
+    "case_id": "SYN-CASE-003",
+    "payment_reference": "SYN-PAY-001",
+    "payment_date": "2026-09-02",
+    "payment_amount": "125.50"
+  }
+}

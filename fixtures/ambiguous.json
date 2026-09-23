@@ -1,0 +1,7 @@
+{
+  "intake_id": "SYN-INTAKE-005",
+  "source_filename": "synthetic-ambiguous.pdf",
+  "document_class": "billing_request",
+  "processing_status": "ambiguous",
+  "fields": {}
+}
