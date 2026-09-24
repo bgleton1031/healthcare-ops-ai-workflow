@@ -1,0 +1,9 @@
+FAKE HEALTHCARE OPERATIONS DOCUMENT
+
+Patient ID: DEMO-001
+Claim Number: CLM-12345
+Insurance Provider: Example Health Plan
+Claim Status: Pending
+Amount: $1,250.00
+
+This document contains synthetic data for testing purposes only.
